@@ -17,7 +17,7 @@ export const CHANGELOG_DATA: ChangelogEntry[] = [
     date: '2026-03-10',
     content: {
       en: `✨ Features
-- Project-level prompt storage: dual-scope prompt management (global + project), store project prompts in \`.codemoss/prompt.json\` for team sharing via Git, separate UI sections with full CRUD, chat autocomplete with scope labels (#598) #hpstream
+- Project-level prompt storage: dual-scope prompt management (global + project), store project prompts in for team sharing via Git, separate UI sections with full CRUD, chat autocomplete with scope labels (#598) #hpstream
 - Codex mode enhancements: suggest (approval) mode, per-conversation permission isolation, separate Codex/Claude Code config UI, agent config and diff editor panel in Codex mode (#571) #tonyshengbo
 - Improve Codex tool rendering with smart classification and file navigation (#607) #gadfly3173
 - Add AUTO_ALLOW_TOOLS category and improve plan mode permissions (#609) #gadfly3173
@@ -46,7 +46,7 @@ export const CHANGELOG_DATA: ChangelogEntry[] = [
 - Replace hardcoded VSCode variables with design tokens in dialogs
 - Improve code quality with thread safety, defensive copying, and log cleanup`,
       zh: `✨ Features
-- 项目级别提示词存储：双作用域提示词管理（全局 + 项目），项目提示词存储在 \`.codemoss/prompt.json\` 文件中可通过 Git 团队共享，全局和项目提示词分区展示并支持完整增删改查，聊天自动补全带作用域标签 (#598) #hpstream
+- 项目级别提示词存储：双作用域提示词管理（全局 + 项目），项目提示词存储在 文件中可通过 Git 团队共享，全局和项目提示词分区展示并支持完整增删改查，聊天自动补全带作用域标签 (#598) #hpstream
 - Codex 模式增强：支持 suggest（审批）模式、会话级独立权限审批、拆分 Codex 和 Claude Code 配置界面、Codex 模式下智能体配置和 diff 编辑面板 (#571) #tonyshengbo
 - 改进 Codex 工具渲染：智能分类和文件导航 (#607) #gadfly3173
 - 新增 AUTO_ALLOW_TOOLS 类别并改进 Plan 模式权限 (#609) #gadfly3173
