@@ -24,7 +24,7 @@ English:
 - Normalize model resolution and env config handling: keep canonical model ID in Java session state, add normalizeProviderEnvForSave/sanitizeProviderJsonConfig helpers, add unit tests
 - Extract CursorHandler and throttle mousemove listener with requestAnimationFrame
 - Translate Chinese comments and JSDoc to English across 14 files for international collaboration
-- Rename plugin ID and project name to jetbrains-claude-code-gui; update build.gradle, plugin.xml, and settings.gradle
+- Rename plugin ID and project name to idea-claude-code-gui; update build.gradle, plugin.xml, and settings.gradle
 
 中文：
 
@@ -50,7 +50,7 @@ English:
 - 规范化模型解析和环境变量配置：Java 侧保留规范 model ID，新增 normalizeProviderEnvForSave/sanitizeProviderJsonConfig 辅助函数，补充单元测试
 - 提取 CursorHandler，并使用 requestAnimationFrame 节流 mousemove 监听
 - 将 14 个文件中的中文注释和 JSDoc 统一翻译为英文，提升国际协作体验
-- 重命名插件 ID 和项目名称为 jetbrains-claude-code-gui，同步更新 build.gradle、plugin.xml 和 settings.gradle
+- 重命名插件 ID 和项目名称为 idea-claude-code-gui，同步更新 build.gradle、plugin.xml 和 settings.gradle
 
 ---
 

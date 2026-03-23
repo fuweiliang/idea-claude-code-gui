@@ -1,5 +1,5 @@
 <idea-plugin>
-    <id>com.github.jetbrains-claude-code-gui</id>
+    <id>com.github.idea-claude-code-gui</id>
     <name>CC GUI（Claude and Codex）</name>
     <vendor>MossX</vendor>
 

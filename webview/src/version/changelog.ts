@@ -37,7 +37,7 @@ export const CHANGELOG_DATA: ChangelogEntry[] = [
 - Normalize model resolution: keep canonical model ID in Java, add env config normalization helpers with tests
 - Extract CursorHandler and throttle mousemove with requestAnimationFrame
 - Translate Chinese comments and JSDoc to English across 14 files
-- Rename plugin ID and project name to jetbrains-claude-code-gui`,
+- Rename plugin ID and project name to idea-claude-code-gui`,
       zh: `✨ Features
 - 新增 CLI Login Provider：通过 Claude SDK 原生 OAuth 认证，ProviderList 显示账户信息及授权/撤销对话框，更新 9 种语言 i18n
 - 新增 Provider 停用支持：切换本地 Provider 时显示确认对话框，将 Provider 信息集成至 ProviderList 简化设置界面
@@ -59,7 +59,7 @@ export const CHANGELOG_DATA: ChangelogEntry[] = [
 - 规范化模型解析和环境变量配置，新增辅助函数和单元测试
 - 提取 CursorHandler，使用 requestAnimationFrame 节流 mousemove 监听
 - 将 14 个文件中文注释和 JSDoc 统一翻译为英文
-- 重命名插件 ID 和项目名称为 jetbrains-claude-code-gui`,
+- 重命名插件 ID 和项目名称为 idea-claude-code-gui`,
     },
   },
   {
